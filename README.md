@@ -3,6 +3,7 @@
 ![image alt](https://github.com/ErdemBuyukcinar/Aura-Finder/blob/a807fc5ad73a23a6aba4bb93c074010631a9f31a/aurafinder.png)
 
 **AuraFinder** is a sleek, React-powered mobile application that analyzes spiritual energy signatures through digital imaging.
+
 ![image alt](https://github.com/ErdemBuyukcinar/Aura-Finder/blob/3915ca01e08e3a450ee985239075e72c17dbdb02/main-page.png)
 
 ## 🚀 Overview
